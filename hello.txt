@@ -1,2 +1,3 @@
 hello git , i first mkdir file 
 have some smaller sister see me
+修改下文件測試下
