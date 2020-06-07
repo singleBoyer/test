@@ -1,3 +1,5 @@
 hello git , i first mkdir file 
 have some smaller sister see me
 修改下文件測試下
+修改第一次1
+修改第二次2
